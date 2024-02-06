@@ -1,0 +1,19 @@
+{
+  "name": "w-dungeon",
+  "version": "1.0.0",
+  "description": "W setup",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "W",
+    "WebGL"
+  ],
+  "author": "Luke",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
