@@ -1,6 +1,7 @@
 {
   "name": "w-dungeon",
   "version": "0.2.0",
+  "type": "module",
   "description": "W setup",
   "main": "index.js",
   "scripts": {
